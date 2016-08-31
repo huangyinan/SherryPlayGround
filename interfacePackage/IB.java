@@ -12,3 +12,4 @@ public interface IB {
 	void FB();
 
 }
+
