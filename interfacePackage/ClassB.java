@@ -7,7 +7,7 @@ package interfacePackage;
  * @author SSI
  *
  */
-public class ClassB implements IB {
+public class ClassB extends AbstractA implements IB {
 
 	/*
 	 * (non-Javadoc)
